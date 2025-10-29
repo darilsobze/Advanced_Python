@@ -5,7 +5,6 @@ print(my_list)
 fruits = ["Banana", "Lemon", "Orange", "apple", "Birne"]
 list2 = [fruit for fruit in fruits if fruit[0] == "B"]
 print(list2)
-
 prices = [25, 2, 3, 48]
 
 # Nested List Comprehensions
